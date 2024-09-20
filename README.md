@@ -1,5 +1,5 @@
 # mobile_app_development
-[Задание №1](https://github.com/Derz65/mobile_app_development/raw/main/screenshot/1.jpg)
+(https://github.com/Derz65/mobile_app_development/raw/main/screenshot/1.jpg)
 [Задание №2](https://github.com/Derz65/mobile_app_development/raw/main/screenshot/2.jpg)
 [Задание №3](https://github.com/Derz65/mobile_app_development/raw/main/screenshot/3.jpg)
 [Задание №4](https://github.com/Derz65/mobile_app_development/raw/main/screenshot/4.jpg)
