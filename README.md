@@ -1,5 +1,5 @@
 # mobile_app_development
- Объявление и инициализации переменной типа Int![](https://github.com/Derz65/mobile_app_development/raw/main/screenshot/1.jpg)
+<strong>Задание № 1: Объявление и инициализации переменной типа Int</strong>![](https://github.com/Derz65/mobile_app_development/raw/main/screenshot/1.jpg)
 ![](https://github.com/Derz65/mobile_app_development/raw/main/screenshot/2.jpg)
 ![](https://github.com/Derz65/mobile_app_development/raw/main/screenshot/3.jpg)
 ![](https://github.com/Derz65/mobile_app_development/raw/main/screenshot/4.jpg)
