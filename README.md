@@ -17,4 +17,4 @@
 [Задание №16](https://github.com/Derz65/mobile_app_development/raw/main/screenshot/16.png)
 [Задание №17](https://github.com/Derz65/mobile_app_development/raw/main/screenshot/17.png)
 [Задание №18](https://github.com/Derz65/mobile_app_development/raw/main/screenshot/18.png)
-[Задание №19](https://github.com/Derz65/mobile_app_development/raw/main/screenshot/19.png)
+[Задание №19](https://github.com/Derz65/mobile_app_development/raw/main/screenshot/19.jpg)
